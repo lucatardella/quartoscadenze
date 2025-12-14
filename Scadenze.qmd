@@ -6,7 +6,7 @@ editor: visual
 
 ## Scadenze fondamentali:
 
--   fine APRILE :: comunicazione ricevuta degli studenti INCOMING selezionati da ENSAI
+-   fine APRILE :: comunicazione ricevuta degli studenti INCOMING selezionati da ENSAI.
 
 -   accettazione delle candidature, previa verifica e successivo trasferimento delle informazioni all'ufficio preposto alla gestione degli studenti di doppio titolo \<doubledegree.sapienza\@uniroma1.it\> (Antonella Fabbricatore) che provvederà a comunicare agli studenti le modalità per l'ammissione ed inserire i sloro dati nel sistema INFOSTUD in modo da dotare ciascuno studente ammesso di matricola e, possibilmente, di indirizzo email Sapienza con il quale accreditarsi presso tutti i servizi Sapienza sin dall'inizio.
 

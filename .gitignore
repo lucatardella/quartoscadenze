@@ -1,0 +1,14 @@
+# Quarto output
+_site/
+.quarto/
+
+# RStudio
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+Scadenze.qmd
+
+# OS
+.DS_Store
+Thumbs.db
